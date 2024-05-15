@@ -1,0 +1,14 @@
+{
+  "name": "project-testing-practice",
+  "version": "1.0.0",
+  "description": "This project was made following the instructions and specifications for [The Odin Project Javascript Course Testing Practice project](https://www.theodinproject.com/lessons/node-path-javascript-testing-practice).",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
